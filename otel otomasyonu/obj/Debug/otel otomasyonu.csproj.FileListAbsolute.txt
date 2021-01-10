@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\otel otomasyonu\otel otomasyonu\bin\Debug\otel otomasyonu.exe.config
+C:\Users\Lenovo\source\repos\otel otomasyonu\otel otomasyonu\bin\Debug\otel otomasyonu.exe
+C:\Users\Lenovo\source\repos\otel otomasyonu\otel otomasyonu\bin\Debug\otel otomasyonu.pdb
+C:\Users\Lenovo\source\repos\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.Form1.resources
+C:\Users\Lenovo\source\repos\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.exe
+C:\Users\Lenovo\source\repos\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.pdb
+C:\Users\Lenovo\source\repos\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.anaEkran.resources
+C:\Users\Lenovo\source\repos\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.frmMusteriKayit.resources
+C:\Users\Lenovo\source\repos\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.frmOdalarımız.resources
+C:\Users\Lenovo\source\repos\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.csprojAssemblyReference.cache
